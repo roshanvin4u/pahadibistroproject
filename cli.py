@@ -17,7 +17,6 @@ from src import stock_utilities
 APP = typer.Typer()
 logging.basicConfig()
 logging.getLogger().setLevel(level=logging.INFO)
-OPENAI_KEY = "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"
 PETPOOJA_SKIP_N_ROWS = 4
 
 
