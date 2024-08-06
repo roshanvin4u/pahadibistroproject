@@ -1,0 +1,136 @@
+Name,Online_Name,Packaging Box,Company,Category,Price,Attributes,Packing_Charges
+Veg Spring Rolls,Veg Spring Rolls,"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML",,Appetizers,169,veg,6
+Crispy Corn Salt Pepper,Crispy Corn Salt Pepper,SMALL_PAPER_BOX_6x6,,Appetizers,209,veg,6
+Crispy Crunchy Corn,Crispy Crunchy Corn,SMALL_PAPER_BOX_6x6,,Appetizers,209,veg,6
+Crispy Chilly Baby Corn,Crispy Chilly Baby Corn,SMALL_PAPER_BOX_6x6,,Appetizers,209,veg,6
+Honey Chilly Potato,Honey Chilly Potato,RECTANGULAR_PLASTIC_CONTAINER_500ML,Appetizers,209,veg,6,
+Shanghai Paneer,Shanghai Paneer,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Appetizers,229,veg,6
+Shanghai Chicken,Shanghai Chicken,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Appetizers,239,non-veg,6
+Drums Of Heaven,Drums Of Heaven,SMALL_PAPER_BOX_6x6,,Appetizers,269,non-veg,6
+Smoke Chilly Wings (phb Special),Smoke Chilly Chicken Wings,SMALL_PAPER_BOX_6x6,,Appetizers,269,non-veg,6
+Golden Fried Prawns,Golden Fried Prawns,"BIG_PAPER_BOX_8x5,ROUND_PLASTIC_CONTAINER_25ML",,Appetizers,429,non-veg,6
+Veg Steamed Momo,Veg Steamed Momos [8 Pieces],"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,159,veg,6
+Veg Pan Fried Momo,Veg Pan Fried Momos [8 Pieces],RECTANGULAR_PLASTIC_CONTAINER_500ML,,Momos,189,veg,6
+Veg Deep Fried Momo,Veg Deep Fried Momos [8 Pieces],"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,169,veg,6
+Chicken Steamed Momo,Chicken Steamed Momos [8 Pieces],"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,189,non-veg,6
+Chicken Pan Fried,Chicken Pan Fried Momos [8 Pieces],RECTANGULAR_PLASTIC_CONTAINER_500ML,,Momos,209,non-veg,6
+Chicken Deep Fried,Chicken Deep Fried Momos [8 Pieces],"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,199,non-veg,6
+Veg Jhol Momo,Veg Jhol Momos [6 Pieces],"ROUND_PLASTIC_CONTAINER_600ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,229,veg,10
+Chicken Jhol Momo,Chicken Jhol Momos [6 Pieces],"ROUND_PLASTIC_CONTAINER_600ML,ROUND_PLASTIC_CONTAINER_25ML",,Momos,239,non-veg,10
+Chilly Veg Momo,Chilly Veg Momos [8 Pieces],RECTANGULAR_PLASTIC_CONTAINER_500ML,,Momos,229,veg,6
+Chilli Chicken Momo,Chilli Chicken Momos [8 Pieces],RECTANGULAR_PLASTIC_CONTAINER_500ML,,Momos,239,non-veg,6
+Tomato Basil Soup,Tomato Basil Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,149,veg,6
+Veg Manchow Soup,Veg Manchow Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,149,veg,6
+Chicken Manchow Soup,Chicken Manchow Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,159,non-veg,6
+Veg Hot & Sour Soup,Veg Hot N Sour Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,149,veg,6
+Chicken Hot & Sour Soup,Chicken Hot N Sour Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,159,non-veg,6
+Veg Lemon Coriander Soup,Veg Lemon Coriander Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,149,veg,6
+Chicken Lemon Coriander Soup,Chicken Lemon Coriander Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,159,non-veg,6
+Chicken Clear Soup,Chicken Clear Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,159,non-veg,6
+Veg Manchurian,Veg Manchurian (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Veg Manchurian,Veg Manchurian (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Manchurian,Paneer Manchurian (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Manchurian,Paneer Manchurian (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Chicken Manchurian,Chicken Manchurian (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Chicken Manchurian,Chicken Manchurian (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Veg Chilly,Veg Chilly (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Veg Chilly,Veg Chilly (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Chilly,Paneer Chilly (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Chilly,Paneer Chilly (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Chicken Chilly,Chicken Chilly (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Chicken Chilly,Chicken Chilly (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Veg Hot Garlic Sauce,Veg in Hot Garlic Sauce,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,249,veg,6
+Paneer Hot Garlic Sauce,Paneer in Hot Garlic Sauce,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,269,veg,6
+Chicken Hot Garlic Sauce,Chicken in Hot Garlic Sauce,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,279,non-veg,6
+Veg Schezwan,Veg Schezwan (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Veg Schezwan,Veg Schezwan (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Schezwan,Paneer Schezwan (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Paneer Schezwan,Paneer Schezwan (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,veg,0
+Chicken Schezwan,Chicken Schezwan (Dry),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Chicken Schezwan,Chicken Schezwan (Gravy),RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,0,non-veg,0
+Veg Kung Pao,Veg Kung Pao,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,249,veg,6
+Paneer Kung Pao,Paneer Kung Pao,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,269,veg,6
+Chicken Kung Pao,Chicken Kung Pao,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,279,non-veg,6
+Chicken In Oyster Sauce,Chicken In Oyster Sauce,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Mains,289,non-veg,6
+Veg Hakka Noodles,Veg Hakka Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,219,veg,6
+Chicken Hakka Noodles,Chicken Hakka Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,239,non-veg,6
+Prawns Hakka Noodles,Prawns Hakka Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,259,non-veg,6
+Veg Schezwan Noodles,Veg Schezwan Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,219,veg,6
+Chicken Schezwan Noodles,Chicken Schezwan Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,239,non-veg,6
+Prawns Schezwan Noodles,Prawns Schezwan Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,269,non-veg,6
+Veg Shanghai Noodles,Veg Shanghai Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,219,veg,6
+Chicken Shanghai Noodles,Chicken Shanghai Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,239,non-veg,6
+Prawns Shanghai Noodles,Prawns Shanghai Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,269,non-veg,6
+Veg Pan Fried Noodles,Veg Pan Fried Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,229,veg,6
+Chicken Pan Fried Noodles,Chicken Pan Fried Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,259,non-veg,6
+Prawns Pan Fried Noodles,Prawns Pan Fried Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,269,non-veg,6
+Seven Jewel Fried Rice,Seven Jewel Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,229,veg,6
+Veg Fried Rice,Veg Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,199,veg,6
+Egg Fried Rice,Egg Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,229,egg,6
+Chicken Fried Rice,Chicken Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,239,non-veg,6
+Prawns Fried Rice,Prawns Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,259,non-veg,6
+Veg Schezwan Rice,Veg Schezwan Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,199,veg,6
+Egg Schezwan Rice,Egg Schezwan Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,229,egg,6
+Chicken Schezwan Rice,Chicken Schezwan Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,239,non-veg,6
+Prawns Schezwan Rice,Prawns Schezwan Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,259,non-veg,6
+Veg Hot Garlic Rice,Veg Hot Garlic Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,199,veg,6
+Egg Hot Garlic Rice,Egg Hot Garlic Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,229,egg,6
+Chicken Hot Garlic Rice,Chicken Hot Garlic Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,239,non-veg,6
+Prawns Hot Garlic Rice,Prawns Hot Garlic Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,259,non-veg,6
+Chicken Egg Wrap Rice,Chicken Egg Wrap Fried Rice,"BIG_PAPER_BOX_8x5,ROUND_PLASTIC_CONTAINER_25ML",,Rice,279,non-veg,6
+Prawns Egg Wrap Rice,Prawns Egg Wrap Fried Rice,"BIG_PAPER_BOX_8x5,ROUND_PLASTIC_CONTAINER_25ML",,Rice,299,non-veg,6
+Packaged Water [ 1 L ],Packaged Water [ 1 L ],,,Drinks,20,veg,0
+Schezwan Chutney,Schezwan Chutney,ROUND_PLASTIC_CONTAINER_50ML,,Chutney,20,veg,3
+Chilli - Oil Chutney,Chilli - Oil Chutney,ROUND_PLASTIC_CONTAINER_50ML,,Chutney,20,veg,3
+Spicy Tomato Chutney,Spicy Tomato Chutney,ROUND_PLASTIC_CONTAINER_50ML,,Chutney,20,veg,3
+Chicken Spring Rolls,Chicken Spring Rolls,"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_25ML",,Appetizers,189,non-veg,6
+Coke Bottle [ 250 Ml ],Coke Bottle [ 250 ml ],,,Drinks,30,veg,0
+Thums-up Bottle [ 250 Ml ],Thums-Up Bottle [ 250 ml ],,,Drinks,30,veg,0
+Sprite Bottle [ 250 Ml ],Sprite Bottle [ 250 ml ],,,Drinks,30,veg,0
+Chicken Lung Fung Soup,Chicken Lung Fung Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,159,non-veg,6
+Garlic Blaze Combo [ Non-veg ],Garlic Blaze Combo [ Non-Veg ],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,389,non-veg,13
+Garlic Blaze Combo [ Veg ],Garlic Blaze Combo [ Veg ],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,349,veg,13
+Wok N' Roll Saucy Combo [non-veg],Wok n' Roll Saucy Combo [Non-Veg],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,389,non-veg,13
+Wok N' Roll Manchurian Combo [ Veg],Wok n' Roll Manchurian Combo [ Veg],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,349,veg,13
+Dragons Embrace Combo [ Non-veg ],Dragons Embrace Combo [ Non-Veg ],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,389,non-veg,13
+Dragons Embrace Combo [ Veg ],Dragons Embrace Combo [ Veg ],"ROUND_PAPER_CONTAINER_750ML,RECTANGULAR_PLASTIC_CONTAINER_500ML,ROUND_PLASTIC_CONTAINER_25ML",,Combo,349,veg,13
+Sumo Loves Chilly [veg],Sumo Loves Garlic [Veg],,,Platters,209,veg,0
+Sumo Loves Chilly [non-veg],Sumo Loves Garlic [Non-Veg],,,Platters,229,non-veg,0
+The Pahadi Bento Box [veg],The Pahadi Bento Box [veg] (Veg Fried Rice),"XL_TRAY_COMPARTMENT_BENTO_BOX,ROUND_PLASTIC_CONTAINER_300ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Bento Boxes [PHB Special],0,veg,0
+The Pahadi Bento Box [veg],The Pahadi Bento Box [veg] (Veg Hakka Noodles),"XL_TRAY_COMPARTMENT_BENTO_BOX,ROUND_PLASTIC_CONTAINER_300ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,,,,
+The Pahadi Bento Box [non-veg],The Pahadi Bento Box [Non-Veg] (Chicken Hakka Noodles),"XL_TRAY_COMPARTMENT_BENTO_BOX,ROUND_PLASTIC_CONTAINER_300ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Bento Boxes [PHB Special],0,non-veg,13
+The Pahadi Bento Box [non-veg],The Pahadi Bento Box [Non-Veg] (Chicken Fried Rice),"XL_TRAY_COMPARTMENT_BENTO_BOX,ROUND_PLASTIC_CONTAINER_300ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,,,,
+Coke 250 Ml,coke 250 ml,,,Staff Drinks,19,veg,0
+Thums-up 250 Ml,thums-up 250 ml,,,Staff Drinks,19,veg,0
+Sprite 250 Ml,sprite 250 ml,,,Staff Drinks,19,veg,0
+Water 1 L,water 1 l,,,Staff Drinks,20,veg,0
+Diet Coke 250 Ml,diet coke 250 ml,,,Staff Drinks,36,veg,0
+Mixed Fried Rice **new**,Mixed Fried Rice **New**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,299,non-veg,6
+Mixed Hot Garlic Fried Rice **new**,Mixed Hot Garlic Fried Rice **New**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,299,non-veg,6
+Mixed Schezwan Fried Rice **new**,Mixed Schezwan Fried Rice **NEW**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Rice,299,non-veg,6
+Mixed Hakka Noodles **new**,Mixed Hakka Noodles **NEW**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,299,non-veg,6
+Mixed Schezwan Noodles **new**,Mixed Schezwan Noodles **NEW**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,299,non-veg,6
+Mixed Hot Garlic Noodles **new**,Mixed Hot Garlic Noodles **NEW**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,299,non-veg,6
+The Pahadi Bistro Special Chutney,The pahadi bistro special chutney,ROUND_PLASTIC_CONTAINER_50ML,,Chutney,20,veg,3
+Veg Kothey Momos,Veg Kothey Momos,SMALL_PAPER_BOX_6x6,,Momos,169,veg,6
+Chicken Kothey Momos,Chicken Kothey Momos,SMALL_PAPER_BOX_6x6,,Momos,199,non-veg,6
+Mixed Pan Fried Noodles **new**,Mixed Pan Fried Noodles **NEW**,"SMALL_PAPER_BOX_6x6,ROUND_PLASTIC_CONTAINER_500ML",,Noodles,309,non-veg,6
+Mixed Triple Schezwan Fried Rice **new**,Mixed Triple Schezwan Fried Rice **NEW**,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_500ML",,Rice,299,non-veg,6
+Veg Thukpa **new**,Veg Thukpa **NEW**,"ROUND_PLASTIC_CONTAINER_1000ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,259,veg,6
+Chicken Thukpa **new**,Chicken Thukpa **NEW**,"ROUND_PLASTIC_CONTAINER_1000ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,279,non-veg,6
+Soyabean Keema Noodles **new**,Soyabean Keema Noodles **NEW**,"ROUND_PLASTIC_CONTAINER_1000ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,259,veg,6
+Chicken Keema Noodles **new**,Chicken Keema Noodles **NEW**,"ROUND_PLASTIC_CONTAINER_1000ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,279,non-veg,6
+Mojito,mojito,,,Drinks,149,veg,0
+Fresh Lemon Soda,fresh lemon soda,,,Drinks,149,veg,0
+Cold Coffee,cold coffee,,,Drinks,149,veg,0
+Cold Coffee With Ice Cream,cold coffee with ice cream,,,Drinks,169,veg,0
+Sadeko Wai Wai,Sadeko Wai Wai,,,Appetizers,149,veg,6
+Veg Clear Soup,Veg Clear Soup,ROUND_PLASTIC_CONTAINER_500ML,,Soup,149,veg,6
+Chicken Triple Schezwan Fried Rice,Chicken Triple Schezwan Fried Rice,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_500ML",,Rice,249,non-veg,6
+Veg Hot Garlic Noodles,Veg Hot Garlic Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,219,veg,6
+Chicken Hot Garlic Noodles,Chicken Hot Garlic Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,239,non-veg,6
+Prawn Hot Garlic Noodles,Prawn Hot Garlic Noodles,"ROUND_PAPER_CONTAINER_750ML,ROUND_PLASTIC_CONTAINER_25ML,ROUND_PLASTIC_CONTAINER_25ML",,Noodles,269,non-veg,6
+Darsaan,Darsaan,,,Desserts,189,veg,6
+Hot Darjeeling Tea,Hot Darjeeling Tea,,,Drinks,49,veg,6
+Diet Coke Can [ 300 Ml ],Diet Coke Can [ 300 Ml ],,,Drinks,50,veg,0
+Crispy Lotus Stem,Crispy Lotus Stem,RECTANGULAR_PLASTIC_CONTAINER_500ML,,Appetizers,269,Non-veg,6

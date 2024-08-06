@@ -1,0 +1,27 @@
+[
+    {
+        "product_code": "COKE_250_ML",
+        "stock": 12,
+        "as_on": "19-07-2024"
+    },
+    {
+        "product_code": "THUMS_UP_250_ML",
+        "stock": 31,
+        "as_on": "19-07-2024"
+    },
+    {
+        "product_code": "SPRITE_250_ML",
+        "stock": 33,
+        "as_on": "19-07-2024"
+    },
+    {
+        "product_code": "WATER_1L",
+        "stock": 28,
+        "as_on": "19-07-2024"
+    },
+    {
+        "product_code": "DIET_COKE_300ML",
+        "stock": 32,
+        "as_on": "16-07-2024"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "product_code": "SMALL_PAPER_BOX_6x6",
+        "stock": 296,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "BIG_PAPER_BOX_8x5",
+        "stock": 47,
+        "as_on": "22-07-2024"
+    },
+    {
+        "product_code": "RECTANGULAR_PLASTIC_CONTAINER_500ML",
+        "stock": 120,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_25ML",
+        "stock": 1432,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_50ML",
+        "stock": 195,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_300ML",
+        "stock": 29,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_500ML",
+        "stock": 82,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_600ML",
+        "stock": 32,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PLASTIC_CONTAINER_1000ML",
+        "stock": 243,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "ROUND_PAPER_CONTAINER_750ML",
+        "stock": 305,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "XL_TRAY_COMPARTMENT_BENTO_BOX",
+        "stock": 221,
+        "as_on": "30-07-2024"
+    },
+    {
+        "product_code": "SMALL_PAPER_BAG",
+        "stock": 100,
+        "as_on": "05-07-2024"
+    },
+    {
+        "product_code": "BIG_PAPER_BAG",
+        "stock": 100,
+        "as_on": "05-07-2024"
+    }
+]
